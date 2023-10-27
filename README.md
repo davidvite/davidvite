@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @davidvite
 - 👀 I’m interested in Full Stack roles
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me... here
+
